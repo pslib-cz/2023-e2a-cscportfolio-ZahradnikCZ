@@ -1,0 +1,16 @@
+header { 
+    background-color: #000000; } /*barva horního panelu*/
+.zoh { 
+    background-color: #f0f0f0; }
+.zoh:hover { 
+    transform: scale(1.02);  background-color: #ffffff; transition: 0.5s;} /* zoom-on-hover */ 
+.list-group-item { 
+    background-color: #ffffff; } /*barva elementů tabulky*/
+.bg-light { 
+    background-color: #000000; } 
+.list-group { 
+    background-color: #264fb6; } 
+.bg-secondary { 
+    background-color: #000000; }
+footer { 
+    background-color: #000000; } /*barva dolního panelu*/
