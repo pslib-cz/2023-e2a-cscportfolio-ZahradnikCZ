@@ -1,0 +1,6 @@
+header{ 
+    background-color: #000000; } /*barva horního panelu*/
+header div div div a{
+    color: #ffffff; background-color:#000000; background-size: 0%;} /*barva textu v horním panelu*/
+footer{ 
+    background-color: #000000; } /*barva dolního panelu*/
