@@ -1,12 +1,8 @@
-header { 
+header{ 
     background-color: #000000; } /*barva horního panelu*/
 header div div div a{
     color: #ffffff; background-color:#000000; background-size: 0%;} /*barva textu v horním panelu*/
-.zoh:hover { 
-    transform: scale(1.02);  background-color: #ffffff; transition: 0.5s;} /* zoom-on-hover */ 
-footer { 
+footer{ 
     background-color: #000000; } /*barva dolního panelu*/
-header div div div{ 
-    background-color: #000000; } /*barva pozadí linku galerie*/
 footer .footertext{
     color: #ffffff; background-color:#000000; background-size: 0%; font-size: 10px;} /*barva textu v dolním panelu*/
