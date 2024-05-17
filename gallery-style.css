@@ -41,3 +41,6 @@ footer{
     max-width: 100%;
         }
     }
+.zoh:hover { 
+    transform: scale(1.25);  background-color: #ffffff; transition: 0.5s;
+} /* zoom-on-hover */
